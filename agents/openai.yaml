@@ -1,0 +1,6 @@
+interface:
+  display_name: "我的 PPT 制作助手"
+  icon_small: "./assets/ppt-assistant.png"
+  icon_large: "./assets/ppt-assistant.png"
+  short_description: "沿用我的 PPT 格式，先讨论逐页方案，确认后制作并按需生成配图"
+  default_prompt: "请用 $personal-ppt 根据这批素材先和我讨论逐页方案，沿用我的常用格式。"
